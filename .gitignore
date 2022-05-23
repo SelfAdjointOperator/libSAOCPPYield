@@ -1,0 +1,5 @@
+/gitignore Extras/
+/logs/
+*.sock
+
+/build/
